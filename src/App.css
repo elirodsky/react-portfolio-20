@@ -1,0 +1,64 @@
+header {
+  background-image: url("./assets/cover-image.jpg");
+  background-size: cover;
+}
+
+nav {
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: white;
+
+}
+nav div {
+  width: 20%;
+  margin: 1em;
+}
+
+nav ul {
+  list-style: none;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+  text-shadow: 2px 2px 10px rgba(0,0,0, 0.5);
+}
+
+main {
+  margin: 3rem;
+}
+
+.about img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.portfolio {
+  display: flex;
+  flex-wrap: wrap;
+}
+.project {
+  margin: 1rem;
+}
+.project-links {
+  display: flex;
+  justify-content: space-between;
+}
+form label {
+  display: block;
+  margin-top: 2rem;
+}
+
+.errorText {
+  color: red;
+}
+
+footer {
+  text-align: center;
+  margin: 3em;
+  font-size: 50px;
+}
+footer a {
+  margin: 0 10px;
+}
