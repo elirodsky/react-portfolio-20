@@ -4,9 +4,9 @@ function About() {
         <section className="about">
             <img src={Photo} />
             <p>
-            Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+            Most of my work experience relates to real estate; As a Property Manager, my first and foremost responsibility has been to take care of and manage the needs of multiple properties. Whether I may be negotiating contracts with an individual tenant, resolving an emergency at another property, and updating my supervisor on the state of all properties, I am constantly working to increase the value of each property. 
             </p><p>
-                Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+            Notably, I have also developed strong interpersonal and analytical skills within my career. As a liaison between owners, tenants, supervisors, and attorneys, I continually work to preserve and strengthen relationships to satisfy all parties.
             </p>
         </section>
     )
