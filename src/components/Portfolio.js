@@ -1,5 +1,9 @@
 import Project from "./Project";
 import natureImage from "../assets/nature-image.jpg";
+import homeCity from "../assets/homecity.jpg";
+import favorTrader from "../assets/favortrader.jpg";
+import noteTaker from "../assets/notetaker.jpg";
+import teamProfileGenerator from "../assets/teamprofilegenerator.jpg";
 function Portfolio() {
     const myProjects = [
         {
@@ -14,21 +18,21 @@ function Portfolio() {
             name: "Favor Trader",
             link: "https://favortrader.herokuapp.com/",
             repo: "https://github.com/elirodsky/Project_2",
-            image: natureImage
+            image: favorTrader
         },
         {
             id: "project3",
             name: "Note-Taker",
             link: "https://afternoon-scrubland-97212.herokuapp.com/",
             repo: "https://github.com/elirodsky/note-taker",
-            image: natureImage
+            image: noteTaker
         },
         {
             id: "project4",
             name: "Team Profile Generator",
             link: "https://elirodsky.github.io/Team-Profile-Generator/",
             repo: "https://github.com/elirodsky/Team-Profile-Generator",
-            image: natureImage
+            image: teamProfileGenerator
         }
     ]
     return (
